@@ -1,7 +1,7 @@
 # PSET 01
 > Aluno: Igor Assis<br>
 > Turma: SI1N<br>
-> Professor: Abrantes Araújo
+> Professor: Abrantes Araújo<br>
 > Monitora: Suellen Miranda Amorim
 ---
 ### _Problem Set_: Metodologia desenvolvida que se baseia em um conjunto de problemas e tarefas difíceis para estimular o estudo e desenvolver a compreensão da matéria.
